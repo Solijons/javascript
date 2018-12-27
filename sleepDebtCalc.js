@@ -56,3 +56,8 @@ const calculateSleepDebt = () => {
 }
 
 calculateSleepDebt();
+
+
+// you can change the value to see other conditional statements returns
+
+
