@@ -56,7 +56,9 @@ const calculateSleepDebt = () => {
 }
 
 calculateSleepDebt();
-
+//output '8'
+//output 56
+//output You got perfect amount of sleep
 
 // you can change the value to see other conditional statements returns
 
